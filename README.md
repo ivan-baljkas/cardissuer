@@ -1,6 +1,6 @@
-# zadatak - izdavanje kartica
+# Stvaranje aplikacijskih datoteka za izradu kartica
 
-Ovaj projekt je rezultat zadatka - izdavanje kartica. Projekt reprezentira jednostavnu backend aplikaciju za stvaranje aplikacijske datoteke za izradu kartice. 
+Projekt predstavlja jednostavnu backend aplikaciju za stvaranje aplikacijskih datoteka za izradu kartica. 
 
 # Korištenje aplikacije
 
